@@ -1,0 +1,71 @@
+year,region,education_percentage
+1920,Western Europe,86.7
+1930,Western Europe,86.8
+1940,Western Europe,90.9
+1950,Western Europe,91.3
+1960,Western Europe,93.9
+1970,Western Europe,96
+1980,Western Europe,98.6
+1990,Western Europe,99.5
+2000,Western Europe,99.6
+2010,Western Europe,99.8
+1920,Eastern Europe,49.1
+1930,Eastern Europe,64.4
+1940,Eastern Europe,92.8
+1950,Eastern Europe,97.1
+1960,Eastern Europe,98.5
+1970,Eastern Europe,98.5
+1980,Eastern Europe,98.5
+1990,Eastern Europe,99.7
+2000,Eastern Europe,99.8
+2010,Eastern Europe,99.9
+1920,Latin America and Caribbean,32
+1930,Latin America and Caribbean,35.7
+1940,Latin America and Caribbean,42.7
+1950,Latin America and Caribbean,54
+1960,Latin America and Caribbean,55.5
+1970,Latin America and Caribbean,65.4
+1980,Latin America and Caribbean,71.5
+1990,Latin America and Caribbean,83.3
+2000,Latin America and Caribbean,90
+2010,Latin America and Caribbean,93.5
+1920,East Asia,35.9
+1930,East Asia,37.9
+1940,East Asia,42.1
+1950,East Asia,45.8
+1960,East Asia,56.2
+1970,East Asia,71.8
+1980,East Asia,72.4
+1990,East Asia,80
+2000,East Asia,87.1
+2010,East Asia,89.8
+1920,South and South-East Asia,8.6
+1930,South and South-East Asia,11.5
+1940,South and South-East Asia,15.2
+1950,South and South-East Asia,19.7
+1960,South and South-East Asia,25.6
+1970,South and South-East Asia,34.4
+1980,South and South-East Asia,40.5
+1990,South and South-East Asia,53.7
+2000,South and South-East Asia,65.9
+2010,South and South-East Asia,70.3
+1920,Middle East and North Africa,7.5
+1930,Middle East and North Africa,8.7
+1940,Middle East and North Africa,10.5
+1950,Middle East and North Africa,14
+1960,Middle East and North Africa,21.1
+1970,Middle East and North Africa,28.8
+1980,Middle East and North Africa,39.4
+1990,Middle East and North Africa,55.2
+2000,Middle East and North Africa,66.3
+2010,Middle East and North Africa,73.8
+1920,Sub-Sahara Africa,4.4
+1930,Sub-Sahara Africa,6.3
+1940,Sub-Sahara Africa,9.5
+1950,Sub-Sahara Africa,13.4
+1960,Sub-Sahara Africa,20.4
+1970,Sub-Sahara Africa,25.1
+1980,Sub-Sahara Africa,32.1
+1990,Sub-Sahara Africa,45.2
+2000,Sub-Sahara Africa,58.4
+2010,Sub-Sahara Africa,65.4
