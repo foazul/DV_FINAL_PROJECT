@@ -4,6 +4,6 @@
 ## It consists of a Python dash web app, CO2 Emission in the continent of the Wprld.
 ## Main libraries used: Dash,Numpy, Plotly
 ## Source of Datasets: https://ourworldindata.org/
-## Running app on: http://127.0.0.1:8055/
+## Running app on: https://dv-final-project.onrender.com/
 ## GitHub Link: https://github.com/foazul/DV_FINAL_PROJECT
 ## Dash Documentation: https://dash.plotly.com/
