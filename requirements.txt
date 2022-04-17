@@ -1,0 +1,7 @@
+gunicorn
+dash
+dash-core-components
+dash-html-components
+numpy
+pandas
+plotly
